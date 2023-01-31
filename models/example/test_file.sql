@@ -1,1 +1,1 @@
-select * from names
+select * from DEMO_DB.DEMO_SCHEMA."names"

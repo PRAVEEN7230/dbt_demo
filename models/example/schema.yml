@@ -21,3 +21,4 @@ models:
                 - not_null
     - name: test_file
       description: "Test dbt model"
+      
