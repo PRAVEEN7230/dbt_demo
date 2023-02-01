@@ -1,1 +1,3 @@
-select * from DEMO_DB.DEMO_SCHEMA."names"
+SELECT  
+  *
+FROM "names"
