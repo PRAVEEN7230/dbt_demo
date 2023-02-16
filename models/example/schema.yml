@@ -19,11 +19,3 @@ models:
             tests:
                 - unique
                 - not_null
-    - name: test_file
-      description: "Test dbt model"
-      columns:
-          - name: id
-            description: "The primary key for this table"
-            tests:
-                - unique
-                - not_null
